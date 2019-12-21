@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 32" height="200" font-size="2.5" font-family="sans-serif" role="img" aria-label="The phone's screen is much smaller compared to the laptop's screen.">
-  <!-- smartphone -->
-  <rect width="6" fill="white" stroke="black" x="6" y="18" height="12" rx="1"/>
-  <text text-anchor="middle" dominant-baseline="middle" transform="translate(9 24) rotate(-60)">4"</text>
-  <!-- laptop -->
-  <rect width="40" fill="white" stroke="black" x="30" y="2" height="26" rx="2" stroke-width="2"/>
-  <line y2="30" stroke-linecap="round" stroke="black" x1="26" x2="74" y1="30" stroke-width="2"/>
-  <text text-anchor="middle" dominant-baseline="middle" transform="translate(50 15) rotate(-30)">14"</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="200" aria-label="The phone's screen is much smaller compared to the laptop's screen." font-family="sans-serif" font-size="2.5" role="img" viewBox="0 0 80 32"><rect width="6" height="12" x="6" y="18" fill="#fff" stroke="#000" rx="1"/><text dominant-baseline="middle" text-anchor="middle" transform="translate(9 24) rotate(-60)">4&quot;</text><rect width="40" height="26" x="30" y="2" fill="#fff" stroke="#000" stroke-width="2" rx="2"/><line x1="26" x2="74" y1="30" y2="30" stroke="#000" stroke-linecap="round" stroke-width="2"/><text dominant-baseline="middle" text-anchor="middle" transform="translate(50 15) rotate(-30)">14&quot;</text></svg>
